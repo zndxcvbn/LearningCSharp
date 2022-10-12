@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kKZGqTR868NJejfAZWMVDtgmlCyh5wAbb1Vla4BK7CugYgPv0PbCL7r1E+hhLvJ2/oUD+VUnH0hlsZHJNgu48A==",
+  "dgSpecHash": "57hyaDMtvqJ0HEoforh2bHZKRi5nYi8UJW3x6BO7KMs0KP5v03d1zaXmZQUqugMd+FAJSq8KHW8xhQE2keAwSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\artem\\Source\\Repos\\LearningCSharp\\Tic-tac-Toe\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\artem\\Source\\Repos\\LearningCSharp\\Tic-tac-Toe\\ConsoleApp1\\Tic-tac-Toe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

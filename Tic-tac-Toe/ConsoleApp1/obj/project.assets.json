@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artem\\Source\\Repos\\LearningCSharp\\Tic-tac-Toe\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\artem\\Source\\Repos\\LearningCSharp\\Tic-tac-Toe\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\artem\\Source\\Repos\\LearningCSharp\\Tic-tac-Toe\\ConsoleApp1\\Tic-tac-Toe.csproj",
+      "projectName": "Tic-tac-Toe",
+      "projectPath": "C:\\Users\\artem\\Source\\Repos\\LearningCSharp\\Tic-tac-Toe\\ConsoleApp1\\Tic-tac-Toe.csproj",
       "packagesPath": "C:\\Users\\artem\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\artem\\Source\\Repos\\LearningCSharp\\Tic-tac-Toe\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",

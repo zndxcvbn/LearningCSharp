@@ -1,0 +1,15 @@
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\bin\Debug\net6.0\Tic-tac-Toe.exe
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\bin\Debug\net6.0\Tic-tac-Toe.deps.json
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\bin\Debug\net6.0\Tic-tac-Toe.runtimeconfig.json
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\bin\Debug\net6.0\Tic-tac-Toe.dll
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\bin\Debug\net6.0\Tic-tac-Toe.pdb
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\obj\Debug\net6.0\Tic-tac-Toe.csproj.AssemblyReference.cache
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\obj\Debug\net6.0\Tic-tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\obj\Debug\net6.0\Tic-tac-Toe.AssemblyInfoInputs.cache
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\obj\Debug\net6.0\Tic-tac-Toe.AssemblyInfo.cs
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\obj\Debug\net6.0\Tic-tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\obj\Debug\net6.0\Tic-tac-Toe.dll
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\obj\Debug\net6.0\refint\Tic-tac-Toe.dll
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\obj\Debug\net6.0\Tic-tac-Toe.pdb
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\obj\Debug\net6.0\Tic-tac-Toe.genruntimeconfig.cache
+C:\Users\artem\Source\Repos\LearningCSharp\Tic-tac-Toe\ConsoleApp1\obj\Debug\net6.0\ref\Tic-tac-Toe.dll
